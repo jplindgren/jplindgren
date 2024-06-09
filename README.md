@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jplindgren
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, football, tennis, and games.
 - 🌱 I’m currently learning GO Lang
 - 📫 How to reach me: https://www.linkedin.com/in/jplindgren/ | https://twitter.com/joaopozo
 
